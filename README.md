@@ -29,7 +29,7 @@
 
 </a>
 <a href="https://github.com/Sakline01/newsapp.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=newsapp&theme=dark" />
+ <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=newsapp&theme=dark" />
 </a>
 <a href="https://github.com/Sakline01/foodapp.git">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=foodApp&theme=dark" />
