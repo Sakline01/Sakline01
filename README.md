@@ -23,7 +23,7 @@
 
 
 <a href="https://github.com/Sakline01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekypradip&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakline01&theme=light&hide_langs_below=1" />
 </a> 
 <a href="https://github.com/geekypradip/bath-and-body-works-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=bath-and-body-works-clone&theme=dark" />
