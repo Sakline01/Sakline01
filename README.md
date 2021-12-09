@@ -24,24 +24,20 @@
 
 <a href="https://github.com/Sakline01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakline01&theme=light&hide_langs_below=1" />
-</a> 
-<a href="https://github.com/geekypradip/bath-and-body-works-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=bath-and-body-works-clone&theme=dark" />
+</a> <br/>
+<a href="https://github.com/nehachatse/sulphur.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=sulphur&theme=dark" />
 
 </a>
-<a href="https://github.com/geekypradip/fathom-heath">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=fathom-heath&theme=light" />
+<a href="https://github.com/Sakline01/newsapp.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=newsapp&theme=light" />
 </a>
-<a href="https://github.com/geekypradip/newsApp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=newsApp&theme=dark" />
+<a href="https://github.com/Sakline01/foodapp.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=foodApp&theme=dark" />
 </a>
-<a href="https://github.com/geekypradip/food-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=food-app&theme=light" />
+<a href="https://github.com/Sakline01/Stopwatch.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=Stopwatch&theme=light" />
 </a>
-<a href="https://github.com/geekypradip/car-showroom-React">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=car-showroom-React&theme=dark" />
-</a>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
