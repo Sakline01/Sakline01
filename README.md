@@ -25,17 +25,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakline01&theme=light&hide_langs_below=1" />
 </a> <br/>
 <a href="https://github.com/nehachatse/sulphur.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=sulphur&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehachatse&repo=sulphur&theme=dark" />
 
 </a>
 <a href="https://github.com/Sakline01/newsapp.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=newsapp&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=newsapp&theme=dark" />
 </a>
 <a href="https://github.com/Sakline01/foodapp.git">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=foodApp&theme=dark" />
 </a>
 <a href="https://github.com/Sakline01/Stopwatch.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=Stopwatch&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=Stopwatch&theme=dark" />
 </a>
 <div align="center">
 
