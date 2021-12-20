@@ -37,6 +37,9 @@
 <a href="https://github.com/Sakline01/Stopwatch.git">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=Stopwatch&theme=dark" />
 </a>
+<a href="https://github.com/Sakline01/Sakline-s-Portfolio.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=Sakline-s-Portfolio&theme=dark" />
+</a>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
