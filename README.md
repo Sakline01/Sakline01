@@ -20,10 +20,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p width="100%">
-<a href="https://github.com/Sakline01">
-  <img height="195em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sakline01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a width="100%" href="https://github.com/Sakline01">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Sakline01&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&theme=algolia"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakline01&theme=chartreuse-dark" />
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakline01&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakline01&layout=compact&langs_count=8&theme=algolia"/>
