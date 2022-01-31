@@ -1,5 +1,5 @@
 <div align="center">
-<img width="70%" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"/>
+<img width="70%" src="https://github.com/Sakline01/typescript-practice/blob/master/programmer.gif?raw=true"/>
 </div>
 
 ###  Hello there I am Sakline
