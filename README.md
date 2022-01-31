@@ -1,3 +1,7 @@
+<div align="center">
+<img width="70%" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"/>
+</div>
+
 ###  Hello there I am Sakline
 
 <!-- - 👯 I’m looking to collaborate on Open source Web project -->
@@ -9,24 +13,30 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact:A friendy neighbour. 
 
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakline01&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=151515&bg_color=ffffff"/>
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<!-- <br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakline01&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=151515&bg_color=ffffff"/> -->
 
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p>
 <a href="https://github.com/Sakline01">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sakline01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakline01&theme=chartreuse-dark" />
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakline01&layout=compact&langs_count=8&theme=algolia"/> -->
+</a>
+</p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakline01&layout=compact&langs_count=8&theme=algolia"/>
+<!-- <a href="https://github.com/Sakline01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakline01&theme=light&hide_langs_below=1" />
-</a> <br/>
+</a> <br/> -->
+<div>
 <a href="https://github.com/nehachatse/sulphur.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehachatse&repo=sulphur&theme=dark" />
 
+</a>
+<a href="https://github.com/Sakline01/OYO_CLONE_PROJECT.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=OYO_CLONE_PROJECT&theme=dark" />
 </a>
 <a href="https://github.com/Sakline01/newsapp.git">
  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=newsapp&theme=dark" />
@@ -40,11 +50,19 @@
 <a href="https://github.com/Sakline01/Sakline-s-Portfolio.git">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=Sakline-s-Portfolio&theme=dark" />
 </a>
-<a href="https://github.com/Sakline01/OYO_CLONE_PROJECT.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sakline01&repo=Sakline-s-Portfolio&theme=dark" />
-</a>
-<div align="center">
+</div>
 
-### Show some ❤️ by starring some of the repositories!
+### 🤝🏻 &nbsp;Connect with Me
+
+<div>
+<p align="center">
+<a href="https://sakline01.github.io/Sakline-s-Portfolio/"><img src="https://img.shields.io/badge/-sakline.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/md-sakline-sk786/"><img src="https://img.shields.io/badge/-Md%20Sakline%20Sk-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/mdsakl.sk/"><img src="https://img.shields.io/badge/-@Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+</div>
+<div align="center">
+  
+  <h2> Show some ❤️ by starring some of the repositories!</h2>
 
 </div>
