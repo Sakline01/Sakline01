@@ -5,8 +5,7 @@
 ###  Hello there I am Sakline
 
 <!-- - 👯 I’m looking to collaborate on Open source Web project -->
-- 🔭 I’m currently working on React
-- 🌱 I’m learning at Masai.
+- 🔭 I’m currently working on React,Next js
 - 🤔 I’m looking for JOB
 - 💬 Ask me about Anything.
 - 📫 How to find me: <a href="https://www.linkedin.com/in/md-sakline-sk786/"><img style="width:20px" src="https://github.com/geekypradip/geekypradip/blob/main/58e91afdeb97430e81906504%20(1).png?raw=true" /></a>| Portfolio<a href="https://sakline01.github.io/Sakline-s-Portfolio/"><img style="width:30px" src="https://logowik.com/content/uploads/images/adobe-portfolio8664.jpg" /></a>
